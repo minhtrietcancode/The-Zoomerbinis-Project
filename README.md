@@ -1,6 +1,3 @@
-## The Zoomerbinis Project
-Python solutions for managing Zoomerbini study groups, including tasks for decoding attributes, checking group validity, finding possible groups, and optimally allocating study groups.
-
 # Zoomerbini Study Group Allocator
 
 This project involves solving a series of tasks related to the Zoomerbini characters, their attributes, and group formation based on their preferences and subjects they are studying.
