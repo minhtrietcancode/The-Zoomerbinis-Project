@@ -15,4 +15,4 @@ This project involves solving a series of tasks related to the Zoomerbini charac
 To run the project, clone the repository and run the Python scripts.
 
 ## Documentation
-For detailed descriptions, examples, and task breakdowns, refer to `docs/tasks.md`.
+For detailed descriptions, examples, and task breakdowns, refer to `Task Description.md`.
